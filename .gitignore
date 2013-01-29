@@ -161,3 +161,7 @@ pip-log.txt
 
 # Mac crap
 .DS_Store
+
+# jquery ui development bundle
+jquery-ui-1.10.0/development-bundle/*
+jquery-ui-1.10.0/index.html
