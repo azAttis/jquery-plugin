@@ -1,0 +1,141 @@
+<!doctype html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>jQuery UI Widget</title>
+
+	<link rel="stylesheet" href="jquery-ui-1.10.0/css/smoothness/jquery-ui-1.10.0.custom.css">
+	<link rel="stylesheet" href="jquery-bullet-chart.css">
+
+	<script type="text/javascript" src="jquery-ui-1.10.0/js/jquery-1.9.0.js"></script>
+	<script type="text/javascript" src="jquery-ui-1.10.0/js/jquery-ui-1.10.0.custom.js"></script>
+	<script type="text/javascript" src="knockout-2.2.1.js"></script>
+
+	<script type="text/javascript" src="app.js"></script>
+
+</head>
+<body>
+
+	<h3>Details</h3>
+	<p>Full name <span data-bind="text: fullName"></span></p>
+	<p>First name <input data-bind="value: firstName"></p>
+	<p>Last name <input data-bind="value: lastName"></p>
+
+	<h2>Friends (<span data-bind="text: friends().length"></span>)</h2>
+	<ul id="friendsContainer" data-bind="template: { name: 'friends-template', foreach: viewModel.friends, as: 'friend' }"></ul>
+	<button data-bind="click: addFriend, enable: friends().length < 5">Add friend</button>
+	<button data-bind="click: save">Save</button>
+
+	<!-- jsrender template -->
+	<script id="friends-template">
+		<li>
+			<input data-bind="value: friend.name"></input>
+			<span data-bind="text: friend.name"></span>
+			<button data-bind="click: remove">Remove</button>
+
+			<label><input type="checkbox" data-bind="checked: isOnTwitter"> Is on Twitter</label>
+			<input data-bind="value: twitterName, visible: isOnTwitter" />
+		</li>
+	</script>
+
+	<!-- knockout mvvm -->
+	<script type="text/javascript">
+
+		function friend(name) {
+			return {
+				  name: ko.observable(name)
+				, isOnTwitter: ko.observable(false)
+				, twitterName: ko.observable()
+				  // in context of this object will work
+				, remove: function() {
+					viewModel.friends.remove(this);
+				}
+			};
+		}
+
+		var viewModel = {
+			  // mivel nem tudja, hogy kit kell értesíteni a string
+			  firstName: ko.observable("Bert")
+			, lastName:  ko.observable("Smith")
+			, friends:   ko.observableArray([
+				 							 new friend("Steve")
+										   , new friend("Annie")
+										 ])
+			, addFriend: function () {
+				this.friends.push(new friend("Another"));
+			}
+			, save: function () {
+				$.ajax({
+					  url: "save.php"
+					, type: "post"
+					, data: ko.toJSON(this)
+					, contentType: "application/json"
+					, success: function (result) {
+						alert(result.message);
+					}
+				});
+			}
+		};
+
+		// Dependency tracking
+		//
+		// value depends on other observables
+		//
+		viewModel.fullName = ko.dependentObservable(function() {
+			return this.firstName() + " " + this.lastName();
+		}, viewModel);
+
+		ko.applyBindings(viewModel);
+	</script>
+
+<br>
+<hr>
+<!-- Chart Container -->
+<div class="chart bullet-chart">
+
+	<!-- Legend -->
+	<div class="legend" style="">
+		<div class="legend-item">
+			<span class="legend-symbol marker green"></span>
+			<span class="legend-label">Green Line</span>
+		</div>
+		<div class="legend-item">
+			<span class="legend-symbol marker red"></span>
+			<span class="legend-label">Red Line</span>
+		</div>
+		<div class="legend-item">
+			<span class="legend-symbol bar blue"></span>
+			<span class="legend-label">Actual target</span>
+		</div>
+		<div class="legend-item">
+			<span class="legend-symbol bar"></span>
+			<span class="legend-label">Projected target</span>
+		</div>
+	</div>
+
+	<!-- Chart -->
+	<div class="chart-container" style="width: 86%;">
+	    <!-- Quantitative Scale -->
+	    <div class="tick-bar">
+			<div class="tick" style="left: 0%;"></div>
+			<div class="tick-label" style="left: 0%;">0</div>
+			<div class="tick" style="left: 25%;"></div>
+			<div class="tick-label" style="left: 25%;">25</div>
+			<div class="tick" style="left: 50%;"></div>
+			<div class="tick-label" style="left: 50%;">50</div>
+			<div class="tick" style="left: 75%;"></div>
+			<div class="tick-label" style="left: 75%;">75</div>
+			<div class="tick" style="left: 100%;"></div>
+			<div class="tick-label" style="left: 100%;">100</div>
+	    </div>
+	    <!-- Bars -->
+	    <div class="bar" style="left: 0px; width: 75%;" bar-index="0"></div>
+	    <div class="bar blue" style="left: 0px; width: 50%;" bar-index="1"></div>
+	    <!-- Markers -->
+	    <div class="marker green" style="left: 80%;" marker-index="0"></div>
+	    <div class="marker red" style="left: 50%;" marker-index="1"></div>
+	</div>
+</div>
+
+</body>
+</html>
