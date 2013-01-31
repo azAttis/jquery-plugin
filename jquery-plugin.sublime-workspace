@@ -1,0 +1,1168 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"object",
+				"objectToArray"
+			],
+			[
+				"Get",
+				"GetArray"
+			],
+			[
+				"eredmeny",
+				"eredmenyId"
+			],
+			[
+				"eredmen",
+				"eredmenyId"
+			],
+			[
+				"mappa",
+				"mappaLetrehozResult"
+			],
+			[
+				"folya",
+				"folyamatId"
+			],
+			[
+				"rec",
+				"recordCount"
+			],
+			[
+				"iss",
+				"isset"
+			],
+			[
+				"getEred",
+				"getEredmenyListDataSet"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"lo",
+				"log"
+			],
+			[
+				"volt",
+				"voltMentve"
+			],
+			[
+				"id_ko",
+				"id_kozbesz"
+			],
+			[
+				"param",
+				"params"
+			],
+			[
+				"var_",
+				"var_export"
+			],
+			[
+				"table",
+				"table_header"
+			],
+			[
+				"col",
+				"colw"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"main",
+				"main_func"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 2855,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"add repo",
+				"Package Control: Add Repository"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"clip",
+				"Clipboard History"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"sql",
+				"FormatSQL: Format SQL statement"
+			],
+			[
+				"fet",
+				"Fetch: Manage"
+			],
+			[
+				"git",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 698.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Sites/jquery-plugin/chart.html",
+		"/C/Users/ferencz.attila/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Sites/jquery-plugin/save.php",
+		"/C/Users/ferencz.attila/Documents/GitHub/jquery-plugin/jquery-bullet-chart.css",
+		"/C/Users/ferencz.attila/Documents/GitHub/jquery-plugin/jquery-ui-1.10.0/index.html",
+		"/C/Users/ferencz.attila/Documents/GitHub/jquery-plugin/index.html",
+		"/C/Users/ferencz.attila/Documents/GitHub/jquery-plugin/.gitignore",
+		"/C/Users/ferencz.attila/Documents/GitHub/jquery-plugin/save.php",
+		"/C/Users/ferencz.attila/Documents/GitHub/jquery-plugin/jquery.bullet-chart.css",
+		"/C/Users/ferencz.attila/Documents/GitHub/jquery-plugin/widget.js",
+		"/C/Sites/welt/WWW_KOZBESZ/173_285_ts5/sftp-config.json",
+		"/C/Sites/welt/WWW_KOZBESZ/173_285_ts5/eupalyazat/config/config.php",
+		"/C/Sites/welt/WWW_KOZBESZ/173_422_ts6/kozbesz/classes/Config.class.php",
+		"/C/Sites/welt/WWW_KOZBESZ/173_422_ts6/eupalyazat/config/config.php",
+		"/C/Sites/welt/WWW_KOZBESZ/173_422_ts6/Config.class.php",
+		"/C/Sites/welt/WWW_KOZBESZ/173_422_ts6/config.php",
+		"/C/Sites/welt/WWW_KOZBESZ/166_611_ts5/kozbesz/templates/page.kozbesz_list.tpl",
+		"/C/Sites/welt/WWW_KOZBESZ/166_611_ts5/kozbesz/templates/page.kozbesz_exante.tpl",
+		"/C/Sites/welt/WWW_KOZBESZ/166_611_ts5/urls.txt",
+		"/C/Sites/welt/WWW_KOZBESZ/166_611_ts5/kozbesz/index.php",
+		"/C/Sites/welt/WWW_KOZBESZ/166_611_ts5/eupalyazat/config/config.php",
+		"/C/Sites/welt/WWW_KOZBESZ/166_611_ts5/kozbesz/templates/page.kozbesz_felvitel_exante.tpl",
+		"/C/Sites/welt/WWW_KOZBESZ/166_611_ts5/kozbesz/classes/Kozbesz.class.php",
+		"/C/Sites/welt/WWW_KOZBESZ/166_611_ts5/kozbesz/classes/Functions.class.php",
+		"/C/Sites/welt/WWW_KOZBESZ/166_611_ts5/kozbesz/templates/page.szerzmod_felvitel.tpl",
+		"/C/Sites/welt/WWW_KOZBESZ/166_611_ts5/kozbesz/classes/Szerzmod.class.php",
+		"/C/Sites/welt/WWW_KOZBESZ/166_611_ts5/kozbesz/templates/page.kozbesz_nyertesek_eredmeny.tpl",
+		"/C/Sites/welt/WWW_KOZBESZ/166_611_ts5/eupalyazat/classes/func.class.php",
+		"/C/Sites/welt/WWW_KOZBESZ/166_611_ts5/kozbesz/templates/page.kozbesz_vissza.tpl",
+		"/C/Sites/welt/WWW_KOZBESZ/166_611_ts5/kozbesz/templates/page.szerzodesmodositas_utolagos.tpl",
+		"/C/Sites/welt/WWW_KOZBESZ/166_611_ts5/kozbesz/templates/page.kozbesz_utolagos.tpl",
+		"/C/Sites/welt/WWW_KOZBESZ/166_611_ts5/kozbesz/templates/page.kozbesz_nyertesek_eredmenyek.tpl",
+		"/C/Sites/welt/WWW_KOZBESZ/166_611_ts5/kozbesz/templates/page.kozbesz_lezarva.tpl",
+		"/C/Sites/welt/WWW_KOZBESZ/166_611_ts5/kozbesz/templates/page.kozbesz_ksz_utoellenorzes.tpl",
+		"/C/Sites/welt/WWW_KOZBESZ/166_611_ts5/kozbesz/templates/page.kozbesz_felvitel_vissza.tpl",
+		"/C/Sites/welt/WWW_KOZBESZ/166_611_ts5/kozbesz/templates/page.kozbesz_felvitel_utolagos.tpl",
+		"/C/Sites/welt/WWW_KOZBESZ/166_611_ts5/kozbesz/templates/page.kozbesz_felvitel_old.tpl",
+		"/C/Sites/welt/WWW_KOZBESZ/166_611_ts5/kozbesz/templates/page.kozbesz.tpl",
+		"/C/Sites/welt/WWW_KOZBESZ/166_611_ts5/kozbesz/templates/template.tpl",
+		"/C/Sites/welt/WWW_KOZBESZ/166_611_ts5/kozbesz/style/style.css",
+		"/C/Sites/welt/WWW_KOZBESZ/166_611_ts5/kozbesz/style/main.css",
+		"/C/Sites/welt/WWW_KOZBESZ/166_611_ts5/kozbesz/templates/inc.rightbox.tpl",
+		"/C/Sites/welt/WWW_KOZBESZ/166_611_ts5/kozbesz/classes/Ajax.class.php",
+		"/C/Sites/welt/WWW_KOZBESZ/166_611_ts5/kozbesz/js/mn.js",
+		"/C/Sites/welt/WWW_KOZBESZ/166_611_ts5/kozbesz/templates/page.kozbesz_ksz_exante.tpl",
+		"/C/Sites/welt/WWW_KOZBESZ/166_611_ts5/kozbesz/templates/page.kozbesz_visszavon.tpl",
+		"/C/Sites/welt/WWW_KOZBESZ/166_611_ts5/kozbesz/templates/page.szerzmod_list.tpl",
+		"/C/Sites/welt/WWW_KOZBESZ/166_611_ts5/kozbesz/templates/page.szerzodesmodositas_exante.tpl",
+		"/C/Sites/welt/WWW_KOZBESZ/166_611_ts5/eupalyazat/index.php",
+		"/C/Sites/welt/WWW_KOZBESZ/166_611_ts5/kozbesz/templates/frame.close_proposal_szerz_mod.tpl",
+		"/C/Sites/welt/WWW_KOZBESZ/166_611_ts5/kozbesz/templates/inc.rightbox_szerzodes.tpl",
+		"/C/Sites/welt/WWW_KOZBESZ/166_611_ts5/kozbesz/templates/frame.close_proposal.tpl",
+		"/C/Sites/welt/WWW_KOZBESZ/166_611_ts5/kozbesz/templates/page.kozbesz_nyertesek_eredmeny_vsz.tpl",
+		"/C/Sites/welt/WWW_KOZBESZ/166_611_ts5/kozbesz/classes/Main.class.php",
+		"/C/Sites/welt/WWW_KOZBESZ/166_611_ts5/kozbesz/classes/KozbeszDokutarKezeles.class.php",
+		"/C/Sites/welt/WWW_KOZBESZ/166_611_ts5/kozbesz/classes/DokutarIFKezeles.class.php",
+		"/C/Sites/welt/WWW_KOZBESZ/166_611_ts5/sftp-config.json",
+		"/C/Sites/welt/WWW_KOZBESZ/166_611_ts5/kozbesz/classes/User.class.php",
+		"/C/Sites/welt/WWW_KOZBESZ/163_850_ts5/kozbesz/classes/DokutarIFKezeles.class.php",
+		"/C/Sites/welt/WWW_KOZBESZ/166_611_ts5/eupalyazat/classes/DokutarIFKezeles.class.php",
+		"/C/Sites/welt/WWW_KOZBESZ/166_611_ts5/kozbesz/dokutar/config.php",
+		"/C/Sites/welt/WWW_KOZBESZ/166_611_ts5/kozbesz/classes/Config.class.php",
+		"/C/Sites/welt/WWW_KOZBESZ/166_611_ts5/kozbesz/dokutar/DBLogger.class.php",
+		"/C/Sites/welt/WWW_KOZBESZ/166_611_ts5/eupalyazat/classes/DBLogger.class.php",
+		"/C/Sites/welt/WWW_KOZBESZ/166_611_ts5/kozbesz/dokutar/WSDLClient.class.php",
+		"/C/Sites/welt/WWW_KOZBESZ/166_611_ts5/kozbesz/dokutar/PHPErrorLog.class.php",
+		"/C/Sites/welt/WWW_KOZBESZ/166_611_ts5/eupalyazat/palyazo/szla_elsz_ut_muveletek.php",
+		"/C/oracle/ora10g/NETWORK/ADMIN/tnsnames.ora",
+		"/C/Sites/welt/WWW_KOZBESZ/166_611_ts5/Config.class.php",
+		"/C/Sites/welt/WWW_KOZBESZ/166_611_ts5/kozbesz/classes/DBC.class.php",
+		"/C/Sites/welt/WWW_KOZBESZ/166_611_ts5/kozbesz/templates/page.kozbesz_nyertesek_eredmeny_vsz_menet.tpl",
+		"/C/Sites/welt/WWW_KOZBESZ/170_408_ts5/kozbesz/templates/page.kozbesz_nyertesek_eredmeny_vsz.tpl",
+		"/C/Sites/welt/WWW_KOZBESZ/170_408_ts5/eupalyazat/config/config.php",
+		"/C/Sites/welt/WWW_KOZBESZ/170_408_ts5/kozbesz/classes/Config.class.php",
+		"/C/Sites/welt/WWW_KOZBESZ/170_408_ts5/kozbesz/.htaccess",
+		"/C/Sites/welt/WWW_KOZBESZ/169_069_2/kozbesz/Kozbesz.class.php",
+		"/C/Sites/welt/WWW_KOZBESZ/169_069_2/kozbesz/classes/Kozbesz.class.php",
+		"/C/Sites/welt/WWW_KOZBESZ/166_611_ts5/kozbesz/templates_c/1c955de485e502c8ebc831f9b8703be5537a3cfe.file.page.kozbesz_ksz_exante.tpl.php",
+		"/C/Downloads/felh.csv",
+		"/C/Sites/welt/WWW_NEW_DESIGN_CSS/compiled/bootstrap.css",
+		"/C/Sites/welt/WWW_KOZBESZ/166_611_ts5/eupalyazat/ajax/_ertesites_ajax.php",
+		"/C/Sites/welt/WWW_KOZBESZ/166_611_ts5/eupalyazat/classes/ertesites/Ertesites.class.php",
+		"/C/Sites/welt/WWW_KOZBESZ/166_611_ts5/kozbesz/classes/Dokutar.class.php",
+		"/C/Sites/welt/WWW_KOZBESZ/166_611_ts5/kozbesz/templates/page.kozbesz_torles.tpl",
+		"/C/Sites/welt/WWW_KOZBESZ/166_611_ts5/eupalyazat/classes/TempDataContainer.class.php",
+		"/C/Sites/welt/WWW_KOZBESZ/166_611_ts5/eupalyazat/tpl/uk/jelentes_adatlapok/IBZBEllenorzesBekuldes.tpl",
+		"/C/Sites/welt/WWW_KOZBESZ/166_611_ts5/eupalyazat/palyazo/uk/szla_elsz_ut_muveletek_ibzb.php",
+		"/C/Sites/welt/WWW_KOZBESZ/166_611_ts5/eupalyazat/palyazo/uk/paly_UMFT2_ibzb_ajax_check.php",
+		"/C/Downloads/sbirka.xml.xml.xml.xml",
+		"/C/Sites/welt/WWW_KOZBESZ/166_611_ts5/eupalyazat/check_forward.php",
+		"/C/Sites/welt/WWW_DOKUTAR/dokutar_2679/includes/WSDLClient.class.php",
+		"/C/Sites/welt/WWW_DOKUTAR/dokutar_2679/includes/DBLogger.class.php",
+		"/C/Sites/welt/WWW_DOKUTAR/dokutar_2679/includes/config.php",
+		"/C/Sites/welt/WWW_DOKUTAR/dokutar_2679/includes/PHPErrorLog.class.php",
+		"/C/Sites/welt/WWW_DOKUTAR/dokutar_2679/includes/Errorhandler.class.php",
+		"/C/Users/ferencz.attila/AppData/Roaming/Sublime Text 2/Packages/User/SVN.errors.log",
+		"/C/Sites/welt/WWW_KOZBESZ/166_611_ts5/config.php",
+		"/C/Sites/welt/WWW_KOZBESZ/166_611_ts5/kozbesz/templates/frame.alint.tpl",
+		"/C/Sites/welt/WWW_KOZBESZ/166_611_ts5/kozbesz/templates/template_noframe.tpl",
+		"/C/Sites/welt/WWW_KOZBESZ/166_611_ts5/kozbesz/templates/frame.select_palyazo.tpl",
+		"/C/Sites/welt/WWW_KOZBESZ/166_611_ts5/kozbesz/templates/frame.score.tpl",
+		"/C/Sites/welt/WWW_KOZBESZ/166_611_ts5/kozbesz/templates/frame.paly.tpl",
+		"/C/Sites/welt/WWW_KOZBESZ/166_611_ts5/kozbesz/templates/frame.op.tpl",
+		"/C/Sites/welt/WWW_KOZBESZ/166_611_ts5/kozbesz/templates/frame.new_customer.tpl",
+		"/C/Sites/welt/WWW_KOZBESZ/166_611_ts5/kozbesz/templates/frame.doc_list.tpl",
+		"/C/Sites/welt/WWW_KOZBESZ/166_611_ts5/kozbesz/templates/frame.konzultacio.tpl",
+		"/C/Sites/welt/WWW_KOZBESZ/166_611_ts5/kozbesz/templates/frame.konzultacio_hosszabitas.tpl",
+		"/C/phperror.log",
+		"/C/Sites/welt/WWW_KOZBESZ/166_611_ts5/kozbesz/classes/Error.class.php",
+		"/C/Sites/welt/WWW_KOZBESZ/172_488_ts6/kozbesz/classes/Kozbesz.class.php",
+		"/C/Sites/welt/WWW_HELPDESK/172_406_ts3/helpdesk/php/ertekeles/ertekeles.php",
+		"/C/Sites/welt/WWW_KOZBESZ/166_611_ts5/eupalyazat/classes/dbconnect.class.php",
+		"/C/Sites/welt/WWW_KOZBESZ/166_611_ts5/eupalyazat/session.save.php",
+		"/C/Sites/welt/WWW_KOZBESZ/166_611_ts5/eupalyazat/palyazo/paly_emir_functions.inc",
+		"/C/Sites/welt/WWW_KOZBESZ/166_611_ts5/eupalyazat/common/adodb/adodb.inc.php",
+		"/C/Users/ferencz.attila/AppData/Roaming/Sublime Text 2/Packages/CTags/Default.sublime-keymap",
+		"/C/Sites/welt/WWW_KOZBESZ/166_611_ts6/kozbesz/classes/Kozbesz.class.php",
+		"/C/Sites/welt/WWW_KOZBESZ/166_611_ts6/kozbesz/.htaccess",
+		"/C/Sites/welt/WWW_HELPDESK/172_406_ts3/helpdesk/classes/func.class.php",
+		"/C/Sites/welt/WWW_HELPDESK/trunk/classes/func.class.php",
+		"/C/Sites/welt/WWW_KOZBESZ/166_611_ts6/kozbesz/classes/Config.class.php",
+		"/C/Sites/welt/WWW_KOZBESZ/166_611_ts6/eupalyazat/config/config.php",
+		"/C/Sites/welt/WWW_HELPDESK/helpdesk2/index.php",
+		"/C/Sites/welt/WWW_HELPDESK/172_406_ts3/helpdesk/classes/ertekeles/ErtekelesToPdf.class.php",
+		"/C/Sites/welt/WWW_HELPDESK/172_406_ts3/helpdesk/index.php",
+		"/C/Sites/welt/WWW_KOZBESZ/172_488_ts6/eupalyazat/config/config.php",
+		"/C/Sites/welt/WWW_HELPDESK/172_406_ts3/helpdesk/classes/dbconnect.class.php",
+		"/C/Sites/welt/WWW_HELPDESK/172_406_ts3/helpdesk/sftp-config.json"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"C:\\Sites\\welt\\WWW_KOZBESZ\\173_285_ts5\\kozbesz\\",
+			"C:\\Sites\\welt\\WWW_KOZBESZ\\166_611_ts5\\kozbesz\\",
+			"C:\\Sites\\welt\\WWW_KOZBESZ\\166_611_ts5\\kozbesz\\templates",
+			"C:\\Sites\\welt\\WWW_KOZBESZ\\166_611_ts5\\kozbesz",
+			"C:\\Sites\\welt\\WWW_KOZBESZ\\166_611_ts5\\eupalyazat",
+			"C:\\Sites\\welt\\WWW_KOZBESZ\\166_611_ts5\\kozbesz",
+			"C:\\Sites\\welt\\WWW_KOZBESZ\\166_611_ts5\\kozbesz\\templates",
+			"C:\\Sites\\welt\\WWW_KOZBESZ\\166_611_ts5\\kozbesz\\",
+			"C:\\Sites\\welt\\WWW_KOZBESZ\\166_611_ts5\\kozbesz\\classes",
+			"C:\\Sites\\welt\\WWW_KOZBESZ\\166_611_ts5\\kozbesz\\templates",
+			"C:\\Sites\\welt\\WWW_KOZBESZ\\166_611_ts5\\kozbesz",
+			"eupalyazat",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"ertDontButton",
+			"input",
+			"#doc_er",
+			"#DOC_ER",
+			"DOC_ER",
+			"eventNewButton",
+			"324",
+			"\"kozbeszerzes_exante\"",
+			"\"uj_exante_kozbeszerzes\"",
+			"\"kozbeszerzes_exante\"",
+			"insertKozbeszExante",
+			"uj_exante_kozbeszerzes",
+			"\"uj_exante_kozbeszerzes\"",
+			"correctionKozbesz",
+			"correctionButton",
+			"\"kozbeszerzes_exante\"",
+			"Végleges",
+			"\"kozbeszerzes_visszamenoleges\"",
+			"input type=\"radio\"",
+			"name=\"RESZAJANLATTETEL\"",
+			"KOZBESZERZES-ID_IGENNEM_TED_KE_AZON",
+			"Kérjük töltse ki a Részajánlattétel mezőt!",
+			"166611",
+			"\"kozbeszerzes_exante\"",
+			"166611",
+			"\"uj_exante_kozbeszerzes\"",
+			"getUserMessage",
+			"\"\"",
+			"'Ellenőrzés lezárásá",
+			"166611",
+			"->szerz",
+			"ellLezaras",
+			"szerz",
+			"Szerzmod",
+			"\"lezaras_kezdemenyezese\"",
+			"->szerz",
+			"ID_SZERZ",
+			"\"lezaras_kezdemenyezese\"",
+			"openCloseProposalDialog",
+			"336",
+			"\"Eredmény érvénytelenítése\"",
+			"Eredmény érvénytelenítése",
+			"Érvénytelen",
+			"Eredmény törlése",
+			"getEredmenyDataSet",
+			"saveEredmenySzerz",
+			"getGetVar",
+			"eredmenyId",
+			"getGetVar('id'",
+			"KFF ellen",
+			"\"kozbeszerzes_exante\"",
+			"eredmeny",
+			"Véglegesítés",
+			"Vissza",
+			"\"eredmeny\"",
+			"k_reszajanlat_db",
+			"eredmenyList",
+			"Részajá",
+			"\"kozbeszerzes_visszamenoleges\"",
+			"RESZAJA",
+			"\"eredmeny_rogzitese\"",
+			"Részajánlat ",
+			"\"kozbeszerzes\"",
+			"FileUpload",
+			"ELOZETES_REGISZTRACIO",
+			"\"",
+			"á",
+			"í",
+			"ú",
+			"ű",
+			"ő",
+			"ö",
+			"ü",
+			"é",
+			"á",
+			"setKozbeszDocsProperties",
+			"error_lo",
+			"setKozbeszDocsProperties",
+			"LOGDB_HOST",
+			"DOKUTARTEST.NFTEUTH.HU",
+			"Dosszie_Uj",
+			"__DataSet",
+			"MAPPA",
+			"Mappa",
+			"MAPPA",
+			"setKozbeszDocsProperties",
+			"jogParamsName",
+			"doktarUserPass",
+			"KozbeszDokutarKezeles",
+			"session",
+			"dokUpload",
+			"módosítása",
+			"Véglegesí",
+			"szerzList",
+			"visszavont_eredmeny",
+			"unset",
+			"ELLENSZOLG_OSSZ_N",
+			"$upd",
+			"\"eredmeny",
+			"error_reporting",
+			"form",
+			"kny_szerz_hat_datum",
+			"kb_szerz",
+			"checkState",
+			"\"eredmeny_vsz_modosit\"",
+			"input",
+			"submit",
+			"event",
+			"eventButton",
+			"jquery.ui.datepicker-hu.js",
+			"eventButton",
+			"KFF elle",
+			"\"kozbeszerzes_exante\"",
+			"closeButton",
+			"getLastIdFromSzerz",
+			"szerzList",
+			"getSzerzListDataSet",
+			"$DB->conn->execute",
+			"if ($id_kozbesz === null) {",
+			"resultSet",
+			"null)",
+			"null",
+			"this->id_ko",
+			"getSzerzListDataSet",
+			"szerzList",
+			"getLastIdFromSzerz",
+			"getSzerzListDataSet",
+			"szerzList"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 2855,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								453,
+								461
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"incomplete_sync": null,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"remote_loading": false,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 810.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 90.0
+	},
+	"output.sftp":
+	{
+		"height": 124.0
+	},
+	"output.vcs":
+	{
+		"height": 108.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"index.php",
+				"kozbesz/index.php"
+			],
+			[
+				"kozbesz",
+				"kozbesz/classes/Kozbesz.class.php"
+			],
+			[
+				"szerzmod",
+				"kozbesz/classes/Szerzmod.class.php"
+			],
+			[
+				"page.szerzmod_felvitel.tpl",
+				"kozbesz/templates/page.szerzmod_felvitel.tpl"
+			],
+			[
+				"page.kozbesz_exante.tpl",
+				"kozbesz/templates/page.kozbesz_exante.tpl"
+			],
+			[
+				"page.kozbesz_list.tpl",
+				"kozbesz/templates/page.kozbesz_list.tpl"
+			],
+			[
+				"eredmeny",
+				"kozbesz/templates/page.kozbesz_nyertesek_eredmeny.tpl"
+			],
+			[
+				"func.c",
+				"kozbesz/classes/Functions.class.php"
+			],
+			[
+				"func.cla",
+				"eupalyazat/classes/func.class.php"
+			],
+			[
+				"kozbe",
+				"kozbesz/classes/Kozbesz.class.php"
+			],
+			[
+				"page.kozbesz_felvitel_exante.tpl",
+				"kozbesz/templates/page.kozbesz_felvitel_exante.tpl"
+			],
+			[
+				"page.kozbesz_vissza.tpl",
+				"kozbesz/templates/page.kozbesz_vissza.tpl"
+			],
+			[
+				"page.kozbesz_nyertesek_eredmeny.tpl",
+				"kozbesz/templates/page.kozbesz_nyertesek_eredmeny.tpl"
+			],
+			[
+				"page.kozbesz_felvitel_utol",
+				"kozbesz/templates/page.kozbesz_felvitel_utolagos.tpl"
+			],
+			[
+				"inc.rightbox.tpl",
+				"kozbesz/templates/inc.rightbox.tpl"
+			],
+			[
+				"ajax.class.",
+				"kozbesz/classes/Ajax.class.php"
+			],
+			[
+				"ajax.class.php",
+				"kozbesz/classes/Ajax.class.php"
+			],
+			[
+				"index.",
+				"kozbesz/index.php"
+			],
+			[
+				"ajax",
+				"kozbesz/classes/Ajax.class.php"
+			],
+			[
+				"mn.js",
+				"kozbesz/js/mn.js"
+			],
+			[
+				"frame.close_proposal_szerz_mod.tpl",
+				"kozbesz/templates/frame.close_proposal_szerz_mod.tpl"
+			],
+			[
+				"ko",
+				"kozbesz/classes/Kozbesz.class.php"
+			],
+			[
+				"inc.rightbox_szerzodes.tpl",
+				"kozbesz/templates/inc.rightbox_szerzodes.tpl"
+			],
+			[
+				"page.szerzodesmodositas_exante.tpl",
+				"kozbesz/templates/page.szerzodesmodositas_exante.tpl"
+			],
+			[
+				"frame.close_proposal.tpl",
+				"kozbesz/templates/frame.close_proposal.tpl"
+			],
+			[
+				"page.kozbesz_nyertesek_eredmeny_vsz.tpl",
+				"kozbesz/templates/page.kozbesz_nyertesek_eredmeny_vsz.tpl"
+			],
+			[
+				"page.kozbesz_nyertesek_eredmenyek.tpl",
+				"kozbesz/templates/page.kozbesz_nyertesek_eredmenyek.tpl"
+			],
+			[
+				"function",
+				"kozbesz/classes/Functions.class.php"
+			],
+			[
+				"main",
+				"kozbesz/classes/Main.class.php"
+			],
+			[
+				"page.kozbesz_ksz_utoellenorzes.tpl",
+				"kozbesz/templates/page.kozbesz_ksz_utoellenorzes.tpl"
+			],
+			[
+				"kozbesz.",
+				"kozbesz/classes/Kozbesz.class.php"
+			],
+			[
+				"dokutarif",
+				"eupalyazat/classes/DokutarIFKezeles.class.php"
+			],
+			[
+				"dblo",
+				"eupalyazat/classes/DBLogger.class.php"
+			],
+			[
+				"dblogger.class.php",
+				"eupalyazat/classes/DBLogger.class.php"
+			],
+			[
+				"szla",
+				"eupalyazat/palyazo/szla_elsz_ut_muveletek.php"
+			],
+			[
+				"dokutarifkezeles",
+				"eupalyazat/classes/DokutarIFKezeles.class.php"
+			],
+			[
+				"dbc",
+				"kozbesz/classes/DBC.class.php"
+			],
+			[
+				"kozbeszdokutarkezeles",
+				"kozbesz/classes/KozbeszDokutarKezeles.class.php"
+			],
+			[
+				"func",
+				"kozbesz/classes/Functions.class.php"
+			],
+			[
+				"page.kozbesz_nyertesek_eredmeny_vsz_menet.tpl",
+				"kozbesz/templates/page.kozbesz_nyertesek_eredmeny_vsz_menet.tpl"
+			],
+			[
+				"main.",
+				"kozbesz/classes/Main.class.php"
+			],
+			[
+				"szerz",
+				"kozbesz/classes/Szerzmod.class.php"
+			],
+			[
+				"page.kozbesz_felvitel_utolagos.tpl",
+				"kozbesz/templates/page.kozbesz_felvitel_utolagos.tpl"
+			],
+			[
+				"page.kozbesz_felvitel_vissza.tpl",
+				"kozbesz/templates/page.kozbesz_felvitel_vissza.tpl"
+			],
+			[
+				"page.kozbesz_utolagos.tpl",
+				"kozbesz/templates/page.kozbesz_utolagos.tpl"
+			],
+			[
+				"szerzmo",
+				"kozbesz/classes/Szerzmod.class.php"
+			],
+			[
+				"tempdatacontainer",
+				"eupalyazat/classes/TempDataContainer.class.php"
+			],
+			[
+				"ellenorzesbe",
+				"eupalyazat/tpl/uk/jelentes_adatlapok/IBZBEllenorzesBekuldes.tpl"
+			],
+			[
+				"user.cla",
+				"kozbesz/classes/User.class.php"
+			],
+			[
+				"kozbesz.cla",
+				"kozbesz/classes/Kozbesz.class.php"
+			],
+			[
+				"ertesites.cl",
+				"eupalyazat/classes/ertesites/Ertesites.class.php"
+			],
+			[
+				"page.kozbesz_",
+				"kozbesz/templates/page.kozbesz_utolagos.tpl"
+			],
+			[
+				"config",
+				"eupalyazat/config/config.php"
+			],
+			[
+				"error",
+				"kozbesz/classes/Error.class.php"
+			],
+			[
+				"ajax.",
+				"kozbesz/classes/Ajax.class.php"
+			],
+			[
+				"page.kozbesz_exante",
+				"kozbesz/templates/page.kozbesz_exante.tpl"
+			],
+			[
+				"session.save.php",
+				"eupalyazat/session.save.php"
+			],
+			[
+				"ertekelesdokutarkezeles",
+				"helpdesk/classes/ertekeles/ErtekelesDokutarKezeles.class.php"
+			],
+			[
+				"dbconnect.class.php",
+				"helpdesk/classes/dbconnect.class.php"
+			],
+			[
+				"func.class.php",
+				"helpdesk/classes/func.class.php"
+			],
+			[
+				"palyazo/paly_umft2_ibzb_kifizetesi_kerelem_pdf.php",
+				"eupalyazat/palyazo/paly_UMFT2_ibzb_kifizetesi_kerelem_PDF.php"
+			],
+			[
+				"page.szerzodesmodositas_utolagos.tpl",
+				"kozbesz/templates/page.szerzodesmodositas_utolagos.tpl"
+			],
+			[
+				"page.modify_registration.tpl",
+				"kozbesz/templates/page.modify_registration.tpl"
+			],
+			[
+				"registration",
+				"kozbesz/classes/Registration.class.php"
+			],
+			[
+				"szerzm",
+				"kozbesz/classes/Szerzmod.class.php"
+			],
+			[
+				"errorhandler",
+				"BUGFIX_170242/classes/Errorhandler.class.php"
+			],
+			[
+				"pejdokutarkezeles",
+				"BUGFIX_170242/classes/pej/PEJDokutarKezeles.class.php"
+			],
+			[
+				"paly_emir_paly",
+				"BUGFIX_170242/palyazo/paly_emir_palyazo.inc"
+			],
+			[
+				"paly_umft2_pej_aj",
+				"BUGFIX_170242/palyazo/paly_UMFT2_pej_ajax_check.php"
+			],
+			[
+				"_szallitok.inc",
+				"EUPALYAZAT/palyazo/_szallitok.inc"
+			],
+			[
+				"ajax/ajax_szamla.js",
+				"EUPALYAZAT/ajax/ajax_szamla.js"
+			],
+			[
+				"paly_umft2_szamla2",
+				"EUPALYAZAT/palyazo/paly_UMFT2_szamla2.inc"
+			],
+			[
+				"paly_emir_pal",
+				"EUPALYAZAT/palyazo/paly_emir_palyazo.inc"
+			],
+			[
+				"ajax/dinam",
+				"EUPALYAZAT/ajax/dinamikus_szuro.php"
+			],
+			[
+				"kifiz_alatamaszto_doksi_ibzb",
+				"EUPALYAZAT/palyazo/kifiz_alatamaszto_doksi_ibzb.php"
+			],
+			[
+				"ajax_elszam",
+				"EUPALYAZAT/ajax/ajax_elszamolas_vegleges_mentes.php"
+			],
+			[
+				"ibzbfinc",
+				"EUPALYAZAT/tpl/uk/jelentes_adatlapok/common_js/IBZBFinCommon_js.tpl"
+			],
+			[
+				"ajax_elszamo",
+				"EUPALYAZAT/ajax/ajax_elszamolas_ibzb.php"
+			],
+			[
+				"paly_umft2_kifizetesi_kerelem",
+				"EUPALYAZAT/palyazo/paly_UMFT2_ibzb_kifizetesi_kerelem_PDF.php"
+			],
+			[
+				"paly_umft2_ibzb_szamla2",
+				"EUPALYAZAT/palyazo/uk/paly_UMFT2_ibzb_szamla2.inc"
+			],
+			[
+				"ajax/projekt_ertesitesek/dinamikus_szuro.js",
+				"EUPALYAZAT/ajax/projekt_ertesitesek/dinamikus_szuro.js"
+			],
+			[
+				"projekt_ertesitesek/projekt_ertesites.tpl",
+				"EUPALYAZAT/tpl/projekt_ertesitesek/projekt_ertesites.tpl"
+			],
+			[
+				"projekt_ertesitesek/paly_umft2_projekt_ertesitesek.php",
+				"EUPALYAZAT/palyazo/projekt_ertesitesek/paly_UMFT2_projekt_ertesitesek.php"
+			],
+			[
+				"paly_umft2_ertesitesek",
+				"EUPALYAZAT/palyazo/kozvetito_funkciok/paly_UMFT2_ertesitesek.inc"
+			],
+			[
+				"paly_emir_palya",
+				"EUPALYAZAT/palyazo/paly_emir_palyazo.inc"
+			],
+			[
+				"dinamikus_szuro",
+				"EUPALYAZAT/ajax/projekt_ertesitesek/dinamikus_szuro.php"
+			],
+			[
+				"projekt_ertesitesek/dinamikus_szuro.tpl",
+				"EUPALYAZAT/tpl/projekt_ertesitesek/dinamikus_szuro.tpl"
+			],
+			[
+				"paly_umft2_ertesitesek.inc",
+				"EUPALYAZAT/palyazo/paly_UMFT2_ertesitesek.inc"
+			],
+			[
+				"uk/paly_umft2_ibzb_szamlatetel.php",
+				"EUPALYAZAT/palyazo/uk/paly_UMFT2_ibzb_szamlatetel.php"
+			],
+			[
+				"uk/paly_umft2_ibzb_szamla2.inc",
+				"EUPALYAZAT/palyazo/uk/paly_UMFT2_ibzb_szamla2.inc"
+			],
+			[
+				"hero",
+				"WWW_NEW_DESIGN_CSS/hero.html"
+			],
+			[
+				"finansz/szamlalista/szamla_import.tpl",
+				"EUPALYAZAT/tpl/finansz/szamlalista/szamla_import.tpl"
+			],
+			[
+				"ajax/ajax_szamlalista.php",
+				"EUPALYAZAT/ajax/ajax_szamlalista.php"
+			],
+			[
+				"paly_umft2_paly_emir_szla_elszamolas.inc",
+				"EUPALYAZAT/palyazo/paly_UMFT2_paly_emir_szla_elszamolas.inc"
+			],
+			[
+				"paly_emir_hea",
+				"EUPALYAZAT/palyazo/paly_emir_header.inc"
+			],
+			[
+				"szla_elsz_ut_muveletek_ibzb.php",
+				"EUPALYAZAT/palyazo/uk/szla_elsz_ut_muveletek_ibzb.php"
+			],
+			[
+				"uk/paly_umft2_ibzb_paly_emir_szla_elszamolas.inc",
+				"EUPALYAZAT/palyazo/uk/paly_UMFT2_ibzb_paly_emir_szla_elszamolas.inc"
+			],
+			[
+				"paly_emir",
+				"EUPALYAZAT/palyazo/paly_emir_palyazo.inc"
+			],
+			[
+				"elszamolaellen",
+				"EUPALYAZAT/classes/uk/IBZBFinElszamolasElllenorzes.class.php"
+			],
+			[
+				"elszamolasellenorzes",
+				"EUPALYAZAT/classes/finansz/ElszamolasElllenorzes.class.php"
+			],
+			[
+				"szla_elsz_ut_muveletek.php",
+				"EUPALYAZAT/palyazo/szla_elsz_ut_muveletek.php"
+			],
+			[
+				"elszamolaskezeles",
+				"EUPALYAZAT/classes/ElszamolasKezeles.class.php"
+			],
+			[
+				"kifiz_alatamaszto_doksi.php",
+				"EUPALYAZAT/palyazo/kifiz_alatamaszto_doksi.php"
+			],
+			[
+				"paly_umft2_kifizetesi_kerelem.inc",
+				"EUPALYAZAT/palyazo/paly_UMFT2_kifizetesi_kerelem.inc"
+			],
+			[
+				"paly_umft2_szamla2.inc",
+				"EUPALYAZAT/palyazo/paly_UMFT2_szamla2.inc"
+			],
+			[
+				"paly_umft2_paly_emir_szla_elszamolas",
+				"EUPALYAZAT/palyazo/paly_UMFT2_paly_emir_szla_elszamolas.inc"
+			],
+			[
+				"ajax/ajax_koltsegek_osszetett.tpl",
+				"EUPALYAZAT/tpl/ajax/ajax_koltsegek_osszetett.tpl"
+			],
+			[
+				"ajax/ajax_koltsegek_lista.tpl",
+				"EUPALYAZAT/tpl/ajax/ajax_koltsegek_lista.tpl"
+			],
+			[
+				"ajax/ajax_koltsegek.php",
+				"EUPALYAZAT/ajax/ajax_koltsegek.php"
+			],
+			[
+				"paly_umft2_szamlatetel",
+				"EUPALYAZAT/palyazo/paly_UMFT2_szamlatetel.php"
+			],
+			[
+				"her",
+				"WWW_NEW_DESIGN_CSS/hero.html"
+			],
+			[
+				"_szallitok_popup.php",
+				"EUPALYAZAT/palyazo/_szallitok_popup.php"
+			],
+			[
+				"ajax/_szallitok_bankszamlak_ajax.php",
+				"EUPALYAZAT/ajax/_szallitok_bankszamlak_ajax.php"
+			],
+			[
+				"_szalitok_bankszamla_uj",
+				"EUPALYAZAT/palyazo/_szallitok_bankszamla_uj.inc"
+			],
+			[
+				"_szalitok_bankszamlak_ajax",
+				"EUPALYAZAT/ajax/_szallitok_bankszamlak_ajax.php"
+			],
+			[
+				"finansz/szamlalista/szamlalista.tpl",
+				"EUPALYAZAT/tpl/finansz/szamlalista/szamlalista.tpl"
+			],
+			[
+				"_szallitok_bankszamla_uj.inc",
+				"EUPALYAZAT/palyazo/_szallitok_bankszamla_uj.inc"
+			],
+			[
+				"palyazo/paly_emir_beleptet.inc",
+				"EUPALYAZAT/palyazo/paly_emir_beleptet.inc"
+			],
+			[
+				"paly_umft2_gyik.inc",
+				"EUPALYAZAT/palyazo/paly_UMFT2_gyik.inc"
+			],
+			[
+				"pej/jelentes_adatlapok/eselyegyenloseg/pejeselyegyenloseg.tpl",
+				"EUPALYAZAT/tpl/pej/jelentes_adatlapok/eselyegyenloseg/PEJeselyegyenloseg.tpl"
+			],
+			[
+				"pej/jelentes_adatlapok/eselyegyenloseg/pejeselyegyenlosegfooter.tpl",
+				"EUPALYAZAT/tpl/pej/jelentes_adatlapok/eselyegyenloseg/PEJeselyegyenlosegFooter.tpl"
+			],
+			[
+				"pej/jelentes_adatlapok/eselyegyenloseg/pejeselyegyenlosegtorzs.tpl",
+				"EUPALYAZAT/tpl/pej/jelentes_adatlapok/eselyegyenloseg/PEJeselyegyenlosegTorzs.tpl"
+			],
+			[
+				"pej/jelentes_adatlapok/eselyegyenloseg/pejeselykiemelttorzs.tpl",
+				"EUPALYAZAT/tpl/pej/jelentes_adatlapok/eselyegyenloseg/PEJeselyKiemeltTorzs.tpl"
+			],
+			[
+				"pej/jelentes_adatlapok/fenntarthatosag/pejfenntarthatosag.tpl",
+				"EUPALYAZAT/tpl/pej/jelentes_adatlapok/fenntarthatosag/PEJfenntarthatosag.tpl"
+			],
+			[
+				"pej/jelentes_adatlapok/fenntarthatosag/pejfenntarthatosagtorzs.tpl",
+				"EUPALYAZAT/tpl/pej/jelentes_adatlapok/fenntarthatosag/PEJfenntarthatosagTorzs.tpl"
+			],
+			[
+				"pfj/jelentes_adatlapok/fenntarthatosag/pfjfenntarthatosagfooter.tpl",
+				"EUPALYAZAT/tpl/pfj/jelentes_adatlapok/fenntarthatosag/PFJfenntarthatosagFooter.tpl"
+			],
+			[
+				"pejjelentesstatusz",
+				"EUPALYAZAT/classes/pej/PEJJelentesStatusz.class.php"
+			],
+			[
+				"pejjelenteskezeles",
+				"EUPALYAZAT/classes/pej/PEJJelentesKezeles.class.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/C/Sites/welt/WWW_HELPDESK/173_509_gyak1/179_509_gyak1.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 346.0,
+	"status_bar_visible": true
+}
